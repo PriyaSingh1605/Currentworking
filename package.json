@@ -1,0 +1,19 @@
+{
+  "name": "currentworking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PriyaSingh1605/Currentworking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PriyaSingh1605/Currentworking/issues"
+  },
+  "homepage": "https://github.com/PriyaSingh1605/Currentworking#readme",
+  "description": ""
+}
