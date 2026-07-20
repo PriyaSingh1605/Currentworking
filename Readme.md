@@ -1,0 +1,1 @@
+## LocoStore 2.0
